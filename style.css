@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.item {
+    margin: 30px;
+}
+
+button {
+    background: blue;
+    padding: 15px;
+    border: blueviolet 1px solid;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: aqua;
+}
+
+h1 {
+    color: green;
+}
